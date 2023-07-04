@@ -10,19 +10,6 @@
 }
 
 @media only screen and (min-width: 100px) {
-  .navbar {
-    height: 44px;
-  }
-
-  .navbar__status {
-    width: 100%;
-    height: 44px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 19px 0 50px;
-  }
-
   header {
     width: 100%;
     background: #3c3a39;
